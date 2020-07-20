@@ -7,3 +7,5 @@ Lastly, baseball has the longest history as the first professional sports of mor
 We acquired the data that contains the individual players’ performance for the history of MLB. We hypothesize that machine learning algorithms will enable to predict the team’s rank while maintaining individual players’ values in the prediction process and the outcome from this will be more accurate than forecasting teams’ ranks based on the team’s aggregated performance, which is a mean value of the performance of players in a team.
 
 Therefore, we aim to build a model that forecasts the ranks of the team, which accept invidiaul players’ performance as an input using neural-network. Our model approach uses the past 30 years of Lahman baseball data when making a prediction.
+
+<img width="864" alt="Screen Shot 2020-07-20 at 7 09 18 PM" src="https://user-images.githubusercontent.com/31057563/87926581-dbe37200-cabc-11ea-8181-7ed482195461.png">
